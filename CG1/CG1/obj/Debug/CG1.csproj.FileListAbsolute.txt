@@ -1,0 +1,18 @@
+c:\users\yanatashamne16\documents\visual studio 2015\Projects\CG1\CG1\bin\Debug\CG1.exe.config
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\CG1\CG1\bin\Debug\CG1.exe
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\CG1\CG1\bin\Debug\CG1.pdb
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\CG1\CG1\obj\Debug\CG1.csprojResolveAssemblyReference.cache
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\CG1\CG1\obj\Debug\CG1.Properties.Resources.resources
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\CG1\CG1\obj\Debug\CG1.csproj.GenerateResource.Cache
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\CG1\CG1\obj\Debug\CG1.exe
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\CG1\CG1\obj\Debug\CG1.pdb
+C:\Users\YaNatashaMne16\documents\visual studio 2015\Projects\CG1\CG1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\YaNatashaMne16\Desktop\CG1\CG1\bin\Debug\CG1.exe.config
+C:\Users\YaNatashaMne16\Desktop\CG1\CG1\obj\Debug\CG1.exe
+C:\Users\YaNatashaMne16\Desktop\CG1\CG1\obj\Debug\CG1.pdb
+C:\Users\YaNatashaMne16\Desktop\CG1\CG1\bin\Debug\CG1.exe
+C:\Users\YaNatashaMne16\Desktop\CG1\CG1\bin\Debug\CG1.pdb
+C:\Users\YaNatashaMne16\Desktop\CG1\CG1\obj\Debug\CG1.csprojResolveAssemblyReference.cache
+C:\Users\YaNatashaMne16\Desktop\CG1\CG1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\YaNatashaMne16\Desktop\CG1\CG1\obj\Debug\CG1.Properties.Resources.resources
+C:\Users\YaNatashaMne16\Desktop\CG1\CG1\obj\Debug\CG1.csproj.GenerateResource.Cache
